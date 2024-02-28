@@ -29,15 +29,15 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vdmax03/vdmaxt.git"
+    "url": "git+https://github.com/vdmax03/vdmtea.git"
   },
   "keywords": [
     "vdmaxtea"
   ],
-  "author": "",
+  "author": "vdmax",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vdmax03/vdmaxt/issues"
+    "url": "https://github.com/vdmax03/vdmtea/issues"
   },
-  "homepage": "https://github.com/vdmax03/vdmaxt#readme"
+  "homepage": "https://github.com/vdmax03/vdmtea#readme"
 }
